@@ -1,4 +1,4 @@
-# pyton
-neural nets in pyton using sgd method
+# python
+neural nets in python using sgd method
 
 
